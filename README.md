@@ -8,4 +8,5 @@ This simple mod changes the level eggs are hatched at to equal your highest leve
 
 ## Credits
 Thanks to [Eradev](https://github.com/Eradev/MonsterSanctuaryMods) for the clear examples to learn from.
+
 Thanks to BlueWinds for helping troubleshoot my malformed Transposes.
